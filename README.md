@@ -1,5 +1,6 @@
 # Vowel-Consonant Adjustment Script
 Synthesizer forum link for reporting bugs: https://forum.synthesizerv.com/t/topic/11598
+
 *For Dreamtronics Synthesizer V Studio Pro, English voicebanks. Japanese implementation coming soon.*
 ## How it works
 This script iterates through all phonemes of all selected notes, and modifies their respective values based on their identification as a vowel, consonant or neither (e.g. br, cl, etc.) This is great for a mass adjustment of phonemes for all your selected notes in a phrase, before zooming into each note to adjust the nitty-gritty of things as needed.
