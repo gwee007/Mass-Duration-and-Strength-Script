@@ -29,7 +29,9 @@ These classifications can be changed based on your preferences in the script. Th
 1. Find the scripts folder through Synthvdd V, and drag and drop the MassPhonemeAdjustment.js file into it
 2. Rescan the scripts folder in Synth V, and confirm that it has loaded
 ### Running the script
-1. Select notes, before running the script under the "Fyre's Scripts" category. The ~
+1. Select notes, before running the script under the "Fyre's Scripts" category. EN stands for English, JP for Japanese and CN for Chinese. 
 2. Run the script, and you should be greeted with the following interface.
+
 ![image](https://github.com/gwee007/Mass-Duration-and-Strength-Script/assets/129729928/b2a17224-8a75-4037-8201-877bc941924e)
+
 3. Adjust values if necessary. All numbers are based on percentage of the notes' intitial lengths. Click 'OK' to see the magic happen.
