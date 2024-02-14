@@ -1,5 +1,6 @@
 # Vowel-Consonant Adjustment Script
 Synthesizer forum link for reporting bugs: https://forum.synthesizerv.com/t/topic/11598
+Or you could submit issues here as well.
 
 *For Dreamtronics Synthesizer V Studio Pro, for English, Chinese and Japanese languages*
 ## How it works
