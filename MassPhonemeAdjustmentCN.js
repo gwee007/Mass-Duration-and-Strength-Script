@@ -16,9 +16,9 @@ function operation() {
     SV.showMessageBox("Notice", "No notes selected. Please select a note.");
     return;
   }
-  var vowelBase = ["aa", "ae", "ah", "ao", "aw", "ax", "ay", "eh", "er", "ey", "ih", "iy", "ow", "oy", "uh", "uw"];
-  var consoBase = ["b", "ch", "d", "dx", "dr", "dh", "f", "g", "hh", "jh", "k", "l", "m", "n", "ng", "p", "r", "s", "sh", "t", "tr", "th", "v", "w", "y", "z", "zh"];
-  var silentBase = ["q", "dw", "tw", "cl", "pau", "sil", "br"];
+  var vowelBase = ["a", "A", "o", "@", "e", "7","U","u","i","i\\","i`","y","AU","@U","ia","iA","iAU","ie","iE","iU","iE","iU","i@U","y{","yE","ua","uA","u@","ue","uo"];
+  var consoBase = [":\\i", "r\\`",":n","N","p","ph","t","th","k","kh","ts\\","ts","tsh","ts`","ts`h","x","f","s","s`","ts\\h","s\\","m","n","l","z`","w","j"];
+  var silentBase = ["q", "dw", "tw", "cl", "pau", "sil", "br", "br1", "br2", "br3", "br4", "br5", "br6", "br7", "br8", "brl1", "brl2", "brl3", "brl4", "brl5", "brl6", "brl7", "brl8"];
 
   var currentGroupRef = SV.getMainEditor().getCurrentGroup();
   var groupPhonemes = SV.getPhonemesForGroup(currentGroupRef);
