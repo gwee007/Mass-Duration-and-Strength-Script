@@ -1,6 +1,6 @@
 function getClientInfo() {
   return {
-    "name": "Vowel-Consonant Mass Adjustment",
+    "name": "Vowel-Consonant Mass Adjustment (EN)",
     "category": "Fyre's Scripts",
     "author": "Fyrebreak",
     "versionNumber": 1,

@@ -18,14 +18,14 @@ Vowels: a, A, o, @, e, 7, U, u, i, i\\, i`, y, AU, @U, ia, iA, iAU, ie, iE, iU, 
 
 Consonants: :\\i, r\\\`, :n, N, p, ph, t, th, k, kh, ts\\, ts, tsh, ts\`, ts\`h, x, f, s, s\`, ts\h, s\\, m, n, l, z\`, w, j
 ## Common for all voicebanks
-The following phonemes are classified as neither consonant or vowel.
+The following phonemes are classified as neither consonant or vowel:
 
-
+q, dw, tw, cl, pau, sil, br, br1, br2, br3, br4, br5, br6, br7, br8, brl1, brl2, brl3, brl4, brl5, brl6, brl7, brl8
 
 These classifications can be changed based on your preferences in the script. The arrays containing these strings should be evident.
 ## Usage
 ### Loading
-1. Find the scripts folder through Synth V, and drag and drop the MassPhonemeAdjustment.js file into it
+1. Find the scripts folder through Synthvdd V, and drag and drop the MassPhonemeAdjustment.js file into it
 2. Rescan the scripts folder in Synth V, and confirm that it has loaded
 ### Running the script
 1. Select notes, before running the script under the "Fyre's Scripts" category. The ~
